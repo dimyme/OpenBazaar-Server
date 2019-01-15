@@ -12,7 +12,7 @@ But then the Openbazaar team forked the original project and after getting [fund
 
 ZERObazaar does not hold that mutated vision. After the OB main version was released, the only thing shared among the bitcoin and opensource [communities](https://www.reddit.com/r/Buttcoin/comments/4f18b5/openbizarre_developer_gets_very_sad_locks_grammar/) was disappointment. 
 
-It is strikingly [clear] (https://www.youtube.com/watch?v=NXszuDQwGHw) that privacy and anonymization is not a priority at all. The whole project was build in a protocol (rUDP) that does not support tor or any other anonymization. 
+It is strikingly [clear](https://www.youtube.com/watch?v=NXszuDQwGHw) that privacy and anonymization is not a priority at all. The whole project was build in a protocol (rUDP) that does not support tor or any other anonymization. 
 
 In fact, the guy in the video has no clue AT ALL what he is talking about. Such is brainwashing achieved by few million $$ in venture capital.
 

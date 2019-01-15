@@ -1,4 +1,4 @@
-# OpenBazaar + Zeronet
+# OpenBazaar over Zeronet
 
 project fork goal: run OpenBazaar over [Zeronet](https://github.com/HelloZeroNet/ZeroNet) rather than immature IPFS.
 
